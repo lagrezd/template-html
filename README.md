@@ -1,6 +1,6 @@
-# Foundation libsass template
+# Template Html
 
-This is a template to start your own project that uses Gulp and libsass!
+Template from scratch avec Gulp et libsass!
 
 ## Requirements
 
